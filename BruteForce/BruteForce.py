@@ -1,4 +1,4 @@
-# Взлом пароля методом BruteForce
+# Password guessing with BruteForce
 import random
 
 correctPassword = '1234'  
