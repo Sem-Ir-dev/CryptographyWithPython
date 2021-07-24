@@ -1,6 +1,6 @@
 # The program converts from the binary number system to decimal
 
-numbers0 = input('Введите значение: ')
+numbers0 = input('Enter value: ')
 numbers = list(numbers0) 
 run = True
 
